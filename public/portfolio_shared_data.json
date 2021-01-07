@@ -1,23 +1,23 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "IGOR PERIĆ",
+      "titles": [ "Dev Team 💪 Lead " , "Robotics 🤖 Engineer", "Taekwon-do 🥋 Black Belt Holder", "Machine Learning 🤷 Engineer", "Coffee ☕ Lover", "Managing 👔 Director ", "🛫 Traveler 🛬", "Senior iOS 🖥 Developer", "Amateur Guitar 🎸 Player ", "IOI Competitor"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/igorperic17",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/igorperic17",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpeg"
     },
     "skills": {
-      "icons": [
+      "icons-unused": [
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -34,6 +34,39 @@
           "level": "80"
         },
         {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ],
+      "icons": [
+        
+        {
+          "name": "Swift",
+          "class": "devicon-mysql-plain",
+          "level": "99"
+        },
+        {
+          "name": "Objective C",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-mysql-plain",
+          "level": "90"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -44,14 +77,9 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "React",
+          "class": "devicon-mysql-plain",
+          "level": "99"
         },
         {
           "name": "C#",
