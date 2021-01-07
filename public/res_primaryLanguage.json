@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hola! 👋",
+      "description": "I'm Igor Perić. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
+        "skills": "Tech stack",
         "experience": "Experience"
       }
     },
@@ -81,37 +81,89 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "BioMech Sensor LLC, Virginia (USA)",
+        "title": "Director of R&D 💻",
+        "years": "2017 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Machine Learning 🧠", "Data Science", "Algorithms"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Deep Learning", "High-performance Systems 🔥", "Optimization", "Swift", "Objective C", "Python", "Tensorflow", "Motion analysis", "IMU", "Quaternion algebra", "iOS Mobile App Development"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "BioMech Sensor d.o.o, Bijeljina (Bosnia)",
+        "title": "Managing Director",
+        "years": "2018 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Legal", "Accounting 🔞", "Human Resources"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Leadership", "Project planning", "Scrum", "Hiring", "Automated QA", "DevOps", "Software Architecht"
+        ]
+      },
+      {
+        "company": "FZI",
+        "title": "Scientific Researcher",
+        "years": "2015 - 2017",
+        "mainTech": [
+          "Human Brain Project", "Linux", "Python", "C++"
+        ],
+        "technologies": [
+          "Robotics", "Computer Vision", "Docker 🐳", "Publications 📚"
+        ]
+      },
+
+      {
+        "company": "Computer Vision and Robotics - VIBOT",
+        "title": "Master Degree",
+        "years": "2015 - 2017",
+        "mainTech": [
+          "Computer Vision", "OpenCV", "ROS", "Linux"
+        ],
+        "technologies": [
+          "Path Planning", "Robotics", "Computer Vision"
+        ]
+      },
+      {
+        "company": "Tracking In Motion",
+        "title": "Lead Software Developer",
+        "years": "2018 - 2019",
+        "mainTech": [
+          "Ball tracking"
+        ],
+        "technologies": [
+          "Epipolar geometry", "3D reconstruction", "High-framerate cameras", "Camera calibration"
+        ]
+      },
+      {
+        "company": "Slobomir P University (Bosnia)",
+        "title": "Computer Science Bachelor Degree",
+        "years": "2009 - 09.2013",
+        "mainTech": [
+          "Algorithms", "Microsoft Imagine Cup"
+        ],
+        "technologies": [
+          "High Level Shader Language", "High Performance Computing", "C#", "Azure", "WPF", "ASP.NET", "REST"
+        ]
+      },
+      {
+        "company": "High school \"Mihajlo Pupin\", Bijeljina (BiH)",
+        "title": "Competitive Programming",
+        "years": "2005 - 2009",
+        "mainTech": [
+          "Pascal", "C", "C++"
+        ],
+        "technologies": [
+          "STL",
+          "Algorithms",
+          "Data structures",
+          "Dynamic Programming",
+          "Graphs",
+          "Sorting",
+          "Big O notation",
+          "IOI 2008 - Egypt 🐫",
+          "IOI 2009 - Bulgaria"
         ]
       }
     ]
